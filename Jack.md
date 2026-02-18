@@ -4,4 +4,4 @@ Deakin University
 
 Wake up
 
-Now
+Now!
