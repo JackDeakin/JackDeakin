@@ -2,6 +2,4 @@
 
 Deakin University
 
-Wake up
-
-Now!
+Wake up Now!
