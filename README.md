@@ -8,7 +8,15 @@
 
 # I am interested in computing education
 
+Here's our logo (hover to see the title text):
 
+Inline-style: 
+![alt text](https://www.google.com/imgres?q=jack%20li%20deakin%20university&imgurl=https%3A%2F%2Fi1.rgstatic.net%2Fii%2Fprofile.image%2F1034514218369025-1623658818205_Q512%2FJack-Li-8.jpg&imgrefurl=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FJack-Li-8&docid=rLA6wktYxc0Z5M&tbnid=mQwSiXGdvstF0M&vet=12ahUKEwjbkNilxOOSAxWNGtAFHQ9ZKOUQnPAOegQIJxAB..i&w=512&h=512&hcb=2&ved=2ahUKEwjbkNilxOOSAxWNGtAFHQ9ZKOUQnPAOegQIJxAB "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 <!--
 **JackDeakin/JackDeakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
